@@ -7,7 +7,7 @@ st.set_page_config(page_title="My Resume", page_icon="📄", layout="centered")
 col1, col2 = st.columns([1, 3])
 
 with col1:
-    st.image("https://github.com/user-attachments/assets/5479a280-95e3-4206-9252-41e1662fea9d", caption="Your Name", use_container_width=True)  # Replace with your image path or URL
+    st.image("https://github.com/user-attachments/assets/5479a280-95e3-4206-9252-41e1662fea9d", caption="Shafiq", use_container_width=True)  # Replace with your image path or URL
 
 with col2:
     st.title("MUHAMMAD SHAFIQ IQWAN BIN MOHD BASRI")
@@ -59,7 +59,7 @@ st.markdown("---")
 st.markdown(
     """
     <div style='text-align: center; color: grey; font-size: 0.9em;'>
-        ©️ 2025 Your Name | Built with ❤️ using Streamlit
+        ©️ 2025 Fiqz | Built with ❤️ using Streamlit
     </div>
     """,
     unsafe_allow_html=True
